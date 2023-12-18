@@ -1,2 +1,2 @@
-let path = require ("path");
-console.log(path);
+let path = require("path");
+console.log(typeof path);
