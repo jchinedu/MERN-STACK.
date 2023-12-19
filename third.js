@@ -1,3 +1,3 @@
 const os =require("os")
-let archofos = os.arch()
-console.log(archofos);
+let platformofmyos = os.platform()
+console.log(platformofmyos);
